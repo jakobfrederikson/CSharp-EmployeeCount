@@ -1,0 +1,7 @@
+C:\Users\test\Desktop\dev\csharp\EmployeeCount\bin\Debug\EmployeeCount.exe.config
+C:\Users\test\Desktop\dev\csharp\EmployeeCount\bin\Debug\EmployeeCount.exe
+C:\Users\test\Desktop\dev\csharp\EmployeeCount\bin\Debug\EmployeeCount.pdb
+C:\Users\test\Desktop\dev\csharp\EmployeeCount\obj\Debug\EmployeeCount.csproj.AssemblyReference.cache
+C:\Users\test\Desktop\dev\csharp\EmployeeCount\obj\Debug\EmployeeCount.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\dev\csharp\EmployeeCount\obj\Debug\EmployeeCount.exe
+C:\Users\test\Desktop\dev\csharp\EmployeeCount\obj\Debug\EmployeeCount.pdb
